@@ -4,7 +4,6 @@ import joblib
 
 app = Flask(__name__)
 
-# Load trained model
 model = joblib.load("model/fraud_detection_model.pkl")
 
 @app.route("/")
