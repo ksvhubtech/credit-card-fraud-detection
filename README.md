@@ -1,25 +1,27 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 🔍 Credit Card Fraud Detection Project 🚀
 
-###
-
-<p align="left">Welcome to the Credit Card Fraud Detection Project!</p>
-
-###
-
-<h2 align="left">About this Project</h2>
-
-###
-
-<p align="left">
-🎯 <strong>Goal:</strong> Develop an end-to-end credit card fraud detection system using machine learning and Flask.<br>
-💪 This project provides an interactive UI with real-time fraud detection capabilities! 🔍
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Flask-2.0+-red?style=for-the-badge&logo=flask" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-💡-yellow?style=for-the-badge" />
 </p>
 
-###
+---
 
-<h2 align="left">Project File Structure</h2>
+## 📌 Project Overview
 
-```
+🚀 **Goal:** Develop an end-to-end Credit Card Fraud Detection system using Machine Learning and Flask.
+
+🔍 **Features:**  
+✔️ Real-time fraud detection based on machine learning predictions  
+✔️ Interactive UI for easy data input  
+✔️ Uses Random Forest Classifier for accurate results  
+
+---
+
+## 📂 Project File Structure
+
+```bash
 credit-card-fraud-detection/
 │── static/
 │   ├── styles.css
@@ -34,25 +36,21 @@ credit-card-fraud-detection/
 │── README.md
 ```
 
-###
+---
 
-<h2 align="left">Installation of Dependencies</h2>
+## 🛠 Installation of Dependencies
 
-###
-
-<p>📌 Install dependencies using the following command:</p>
+📌 Install dependencies using the following command:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-###
+---
 
-<h2 align="left">Steps to Run the Project</h2>
+## 🚀 Steps to Run the Project
 
-###
-
-👉 **Follow these steps to run the fraud detection system:**
+✅ Follow these steps to run the fraud detection system:
 
 1️⃣ **Install dependencies:**
    ```bash
@@ -69,33 +67,51 @@ pip install -r requirements.txt
 4️⃣ **Open the application:**
    Open [http://127.0.0.1:5000/](http://127.0.0.1:5000/) in your browser 🌍.
 
-###
+---
 
-<h2 align="left">Technology Stack</h2>
+## 🖼️ Sample Output
 
-###
+<p align="center">
+  <img src="out put sample.png" alt="Output Sample" width="700"/>
+</p>
 
-- ✨ **Frontend:** HTML, CSS, JavaScript 🎨
-- ⚙️ **Backend:** Flask (Python)
-- 🤖 **Machine Learning:** Random Forest Classifier (scikit-learn)
-- 📚 **Database/File Storage:** CSV Dataset
+---
 
-###
+## 💻 Technology Stack
 
-<h2 align="left">I code with</h2>
+| Category        | Technology Used |
+|----------------|----------------|
+| Frontend       | HTML, CSS, JavaScript 🎨 |
+| Backend        | Flask (Python) ⚙️ |
+| Machine Learning | Random Forest Classifier (scikit-learn) 🤖 |
+| Database       | CSV Dataset 📂 |
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
-  <img width="12" />
+## 🛠 I Code With
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="50" alt="Flask" />
 </div>
 
+---
+
+## 🎯 Future Improvements
+
+🔹 Improve the UI with enhanced styling  
+🔹 Implement more advanced fraud detection models  
+🔹 Deploy the application on a cloud platform  
+
+📢 Contributions & Suggestions are welcome! Feel free to fork and create a pull request.  
+
+---
+
+### ⭐ Don't forget to **star** this repository if you found it useful! 😊
